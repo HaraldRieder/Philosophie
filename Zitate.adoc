@@ -27,7 +27,7 @@ ephemeres Kunstprodukt. Und wirklich sehen wir jeden Denker, auch jeden
 Philosophen, sobald er durch praktische Bedrängnis aus seiner
 einseitigen intellektuellen Beschäftigung vertrieben wird, sofort den
 allgemeinen Standpunkt einnehmen. +
-[Mach I.15.]
+xref:Quellen#Mach[Mach I.15.]
 
 Diese Lehre hier, ihren Sinn, der Wirklichkeit hat, zu verstehen, werden
 immer die Menschen zu töricht sein, so ehe sie gehört, wie wenn sie erst
@@ -37,15 +37,15 @@ Werken, wie ich hier sie eingehend auseinanderlege einzeln ihrem Wesen
 nach und erkläre, wie sich jedes verhält; den andern Menschen aber
 bleibt unbewußt, was sie im Wachen tun, wie was sie im Schlaf bewußtlos
 tun. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Denn viele sehn das nicht ein, soviele auch daran stoßen; belehrt man
 sie auch, sie erkennen es nicht - aber sie bilden sich etwas ein. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Dem Blöden fährt bei jedem sinnvollen Wort der Schrecken in die
 Glieder. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 {empty}8. In des Nichtwissens Tiefe hin sich windend, +
 Sich selbst als Weise, als Gelehrte wähnend, +
@@ -55,7 +55,7 @@ Wie Blinde, die ein selbst auch Blinder anführt. +
 Am Ziel der Wünsche wähnen sich die Toren; +
 Vor Werkdienst kommen sie nicht zur Besinnung, +
 Der Not verfallend, wenn der Lohn verbraucht ist. +
-[Mundaka-Upanishad]
+xref:Quellen#Mundaka-Upanishad[Mundaka-Upanishad]
 
 == Über den Weg zur Erkenntnis
 
@@ -64,8 +64,8 @@ die Mühe, die auf Erden geschieht, daß einer weder Tag noch Nacht Schlaf
 bekommt in seine Augen. Und ich sah alles Tun Gottes, daß ein Mensch das
 Tun nicht ergründen kann, das unter der Sonne geschieht. Und je mehr der
 Mensch sich müht, zu suchen, desto weniger findet er. Und auch wenn der
-Weise meint: „Ich weiß es“, so kann er's doch nicht finden. [Prediger
-Salomo 8]
+Weise meint: „Ich weiß es“, so kann er's doch nicht finden. +
+xref:Quellen#Prediger[Prediger Salomo 8]
 
 »Die Welt ist meine Vorstellung:« – dies ist die Wahrheit, welche in
 Beziehung auf jedes lebende und erkennende Wesen gilt; wiewohl der
@@ -75,7 +75,8 @@ ihm eingetreten. Es wird ihm dann deutlich und gewiß, daß er keine Sonne
 kennt und keine Erde; sondern immer nur ein Auge, das eine Sonne sieht,
 eine Hand, die eine Erde fühlt; daß die Welt, welche ihn umgiebt, nur
 als Vorstellung da ist, d.h. durchweg nur in Beziehung auf ein Anderes,
-das Vorstellende, welches er selbst ist. [Schopenhauer-D]
+das Vorstellende, welches er selbst ist. +
+xref:Quellen#Schopenhauer-D[Schopenhauer-D]
 
 Die großen Philosophen ... haben verstanden oder gefühlt, daß jede
 sprachliche Formulierung die Wirklichkeit nicht nur ergreift, sondern
@@ -83,13 +84,13 @@ auch gestaltet und idealisiert, und daß eben in dem Maß, in dem die
 Begriffe sich verschärfen, die Idealisierung sich wieder von der
 Wirklichkeit löst; daher auch werden die letzten, tiefsten Erkenntnisse
 schließlich im Gleichnis ausgesprochen. +
-[Heisenberg-O]
+xref:Quellen#Heisenberg-O[Heisenberg-O]
 
 Vielwisserei lehrt keine Vernunft; sonst hätte sie Hesiod belehrt und
 Pythagoras, auch Xenophanes und Hekataios. Denn das Weise ist das Eine:
 den einsichtsvollen Willen zu verstehen, der alles durch alles
 hindurchsteuert. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 {empty}11. Nur wer es nicht erkennt, kennt es, +
 Wer es erkennt, der weiß es nicht, — +
@@ -103,19 +104,19 @@ Daß er dies weiß, Unsterblichkeit. +
 Wer ihn hier nicht fand, dem ist's groß Verderben. +
 In jedem Wesen nimmt ihn wahr der Weise +
 Und wird, hinscheidend aus der Welt, unsterblich. +
-[Kena-Upanishad, Zweiter Khanda]
+xref:Quellen#Upanishad[Kena-Upanishad, Zweiter Khanda]
 
 {empty}14. Steht auf! wacht auf! erlangt habend +
 Treffliche Lehrer, merkt auf sie. +
 Wie schwer zu gehn auf scharfer Messerschneide ist, +
 Schwer ist der Weg! Den lehren euch die Weisen. +
-[Kathaka-Upanishad, Erster Adhyaya, Dritte Valli]
+xref:Quellen#Upanishad[Kathaka-Upanishad, Erster Adhyaya, Dritte Valli]
 
 Schwervollbringbar, schwererreichbar, +
 Schwer zu schauen, zu gründen schwer, +
 Schwer ausführbar ist dies Sinnen +
 Selbst für Weise und Einsame. +
-[Tejobindu-Upanishad]
+xref:Quellen#Upanishad[Tejobindu-Upanishad]
 
 Nicht Grobes erkennend und nicht Feines erkennend, noch nach beiden
 Seiten erkennend, weder bewusst noch unbewusst, auch nicht durch und
@@ -126,12 +127,12 @@ selig, beruhigt, zweitlos, – das ist [das vierte Viertel], das« eben
 »ist der Âtman, den« eben »soll man erkennen«, – +
 und auch der Îçvara (der persönliche Gott) wird verschlungen von dem
 Turîya (dem Vierten), – von dem Turîya! +
-[Nrisinha-Uttara-Tâpanîya-Upanishad]
+xref:Quellen#Upanishad[Nrisinha-Uttara-Tâpanîya-Upanishad]
 
 Wie fließende Ströme im Meer verschwinden, ihren Namen und ihre Form
 verlieren, so schreitet ein weiser Mensch, von Namen und Gestalt
 befreit, in die göttliche Weisheit ein, die über allem steht. +
-[Yajnavalkya-D]
+xref:Quellen#Yajnavalkya-D[Yajnavalkya-D]
 
 Und wer auch immer, Ananda, jetzt oder nach seinem Tode sich selbst
 Richtschnur sein wird, sich selbst Zuflucht sein wird, keine äußere
@@ -139,7 +140,7 @@ Zuflucht suchen wird, sondern zur Wahrheit stehen wird als zu seiner
 Richtschnur ... und zu niemandem Zuflucht nehmen wird , wird außer zu
 sich selbst - er ist der, der die allerhöchste Höhe erreichen wird. Doch
 er muß eifrig bestrebt sein zu lernen. +
-[Buddha-D]
+xref:Quellen#Buddha-D[Buddha-D]
 
 Wissen ist eine Sache des Intellekts; es stellt sich in Begriffen dar
 und erhält Urteile über falsch und richtig, für und wider, also
@@ -167,18 +168,18 @@ von Grund auf. Nicht nur durchschaut er das samsarische Leiden als
 Schein und Traum - auch Buddhaschaft und Nirvana haben für ihn den Wert
 verloren. Sie sind illusionäre Ideale, nützlich nur für den, der nichts
 von seiner wesenhaften Erlöstheit weiß. +
-[Schumann S.174-175]
+xref:Quellen#Schumann[Schumann S.174-175]
 
 == Über den Weg zum Glück
 
 Die Gold suchen, graben viel Erde und finden wenig. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 {empty}12. Wenn seine Seele blind ist durch die Mâyâ, +
 Bewohnt den Leib er und betreibt die Werke, +
 Durch Weiber, Speise, Trank und viel Genüsse +
 Erlangt er Sättigung im Stand des Wachens. +
-[Kaivalya-Upanishad]
+xref:Quellen#Upanishad[Kaivalya-Upanishad]
 
 Darüber ist auch dieser Vers: +
 9. Vor dem die Worte umkehren +
@@ -190,13 +191,13 @@ unterlassen?“ — „Welches Böse habe ich begangen?“ — Wer, solches
 wissend, sich von diesen hin zum Atman rettet, der rettet sich zugleich
 von beiden [Gutem und Bösem] hin zum Atman, — wer solches weiß. — So
 lautet die Upanishad. +
-[Taittiriya-Upanishad, Anandavalli]
+xref:Quellen#Upanishad[Taittiriya-Upanishad, Anandavalli]
 
 {empty}14. Wenn alle Leidenschaft schwindet, +
 Die nistet in des Menschen Herz, +
 Dann wird, wer sterblich, unsterblich, +
 Hier schon erlangt das Brahman er. +
-[Kathaka-Upanishad, Zweiter Adhyaya, Sechste Valli]
+xref:Quellen#Upanishad[Kathaka-Upanishad, Zweiter Adhyaya, Sechste Valli]
 
 {empty}9. Spalt' hundertmal des Haars Spitze +
 Und nimm davon ein Hundertstel, +
@@ -222,31 +223,31 @@ Als Gott kennt, wird befreit von allen Banden. +
 Sein und Nichtsein bewirkenden. +
 Die [sechzehn] Teile bindenden +
 Sel'gen Gott sucht, verläßt den Leib. +
-[Svetasvatara-Upanishad, Fünfter Adhyaya]
+xref:Quellen#Upanishad[Svetasvatara-Upanishad, Fünfter Adhyaya]
 
 Wenn ihn der Seher schaut, wie Goldschmuck strahlend, +
 Den Schöpfer, Herrn und Geist, die Brahmanwiege, +
 Dann gibt der Weise Gutes auf und Böses, +
 Einsmachend alles in dem Ew'gen, Höchsten. +
-[Maytrayana-Upanishad, Sechster Prapathaka]
+xref:Quellen#Upanishad[Maytrayana-Upanishad, Sechster Prapathaka]
 
 {empty}6. Der Schauende schaut nicht den Tod, +
 Nicht Krankheit und nicht Ungemach, +
 Das All nur schaut der Schauende, +
 Das All durchdringt er allerwärts. +
-[Maytrayana-Upanishad, Siebenter Prapathaka]
+xref:Quellen#Upanishad[Maytrayana-Upanishad, Siebenter Prapathaka]
 
 {empty}8. Wer jenes Höchst-und-Tiefste schaut, +
 Dem spaltet sich des Herzens Knoten, +
 Dem lösen alle Zweifel sich, +
 Und seine Werke werden Nichts. +
-[Mundaka-Upanishad, Zweites Mundakam]
+xref:Quellen#Upanishad[Mundaka-Upanishad, Zweites Mundakam]
 
 Das aber verkünde ich, o Freund: in eben diesem klafterhohen, mit
 Wahrnehmung und Bewußtsein versehenen Körper, da ist die Welt enthalten,
 der Welt Entstehung, der Welt Ende und der zu der Welt Ende führende
 Pfad. +
-[Anguttara Nikaya IV 45]
+xref:Quellen.adoc#[Anguttara Nikaya IV 45]
 
 Leidvoll ist Lust, o Eraka! +
 Nicht Glück bringt Lust, o Eraka! +
@@ -254,7 +255,7 @@ Wer sich nach Sinnenlüsten sehnt, +
 ersehnt das Leiden, Eraka! +
 Wer Sinnenlüste nicht ersehnt, +
 ersehnt nicht Leiden, Eraka! +
-[Theragata 93]
+xref:Quellen#Theragata[Theragata 93]
 
 {empty}(1) Dies sind die geheimen Worte, die Jesus, der Lebendige,
 sprach und die +
@@ -310,7 +311,7 @@ Jesus sprach: „Es wird nicht kommen, wenn es erwartet wird. Man wird +
 nicht sagen: Seht, hier, oder seht, dort. Sondern das Königreich des
 Vaters +
 ist ausgebreitet über die Erde, und die Menschen sehen es nicht.“ +
-[Thomas]
+xref:Quellen#Thomas[Thomas]
 
 Daher meint jeder nur von sich zu wissen, indem er sich für eine
 untrennbare von anderen unabhängige Einheit hält. Bewußstseinsinhalte
@@ -329,12 +330,12 @@ verschließen können. Man wird dann auf das Ich, welches schon während
 des individuellen Lebens variiert, ja im Schlaf und bei Versunkenheit in
 eine Anschauung, in einen Gedanken, gerade in den glücklichsten
 Augenblicken, teilweise oder ganz fehlen kann, nicht mehr den hohen Wert
-legen. Man wird dann auf individuelle [Anmerkung: abgeteilte]
+legen. Man wird dann auf individuelle xref:Quellen.adoc#[Anmerkung: abgeteilte]
 Unsterblichkeit gern verzichten, und nicht auf das Nebensächlich mehr
 Wert legen als auf die Hauptsache. Man wird hierdurch zu einer freieren
 und verklärten Lebensauffassung gelangen, welche Mißachtung des fremden
 Ich und Überschätzung des eigenen ausschließt. +
-[Mach I.12.]
+xref:Quellen#Mach[Mach I.12.]
 
 An die wenigen Erfahrungen, welche ich bis jetzt auf dem Wege zu meinem
 eigentlichen Lebensziel gefunden hatte, reihte sich diese neue: das
@@ -355,7 +356,7 @@ denn Berg und Strom, Baum und Blatt, Wurzel und Blüte, alles Gebildete
 in der Natur liegt in uns vorgebildet, stammt aus der Seele, deren Wesen
 Ewigkeit ist, deren Wesen wir nicht kennen, das sich uns aber zumeist
 als Liebeskraft und Schöpferkraft zu fühlen gibt. +
-[Demian]
+xref:Quellen.adoc#Demian[Demian]
 
 == Das Wesen der Welt
 
@@ -367,10 +368,10 @@ Empfindungskomplexe sind ... Die Welt besteht also für uns nicht aus
 rätselhaften Wesen, welche durch Wechselwirkung mit einem anderen ebenso
 rätselhaften Wesen, dem Ich, die allein zugänglichen Empfindungen
 erzeugen. Die Farben, Töne, Räume, Zeiten . . . sind für uns die letzten
-Elemente. Darin besteht eben die Ergründung der Wirklichkeit. [Mach
-I.13.]
+Elemente. Darin besteht eben die Ergründung der Wirklichkeit. +
+xref:Quellen#Mach[Mach I.13.]
 
-... weil ... ein großer Passagierdampfer an uns vorbeiglitt ... Was war
+{empty}... weil ... ein großer Passagierdampfer an uns vorbeiglitt ... Was war
 der Dampfer wirklich? War er eine Masse Eisen mit einer Kraftzentrale,
 einem elektrischen Leitungssystem und Glühbirnen? Oder war er der
 Ausdruck einer menschlichen Absicht, eine Gestalt, die sich als Ergebnis
@@ -380,7 +381,7 @@ diesmal nicht nur Eiweißmoleküle, sondern Stahl und elektrische Ströme
 verwendet hatten? Stellt das Wort „Absicht“ also nur den Reflex dieser
 gestaltenden Kraft oder der Naturgesetze im menschlichen Bewußtsein
 dar? +
-[Heisenberg-G, Kap. 17]
+xref:Quellen#Heisenberg-G[Heisenberg-G, Kap. 17]
 
 Nach dem Abschluss dieser Entwicklung [der physikalischen Wissenschaft]
 scheinen die Wörter: „Materie“, „Kraft“, „Struktur von Raum und Zeit“
@@ -389,12 +390,12 @@ hierdurch erreichte Vereinheitlichung hat dabei zur Folge, dass keiner
 dieser Begriffe ohne Vorbehalt in dem einfachen ursprünglichen Sinne
 verwendet werden kann, sofern es sich nicht um Vorgänge im Bereich der
 täglichen Erfahrung handelt. +
-[Heisenberg-O]
+xref:Quellen#Heisenberg-O[Heisenberg-O]
 
 Alle Elementarteilchen sind aus derselben Substanz, aus demselben Stoff
 gemacht, den wir nun Energie oder universelle Materie nennen können; sie
 sind nur verschiedene Formen, in denen Materie erscheinen kann. +
-[Heisenberg-P]
+xref:Quellen#Heisenberg-P[Heisenberg-P]
 
 Offenbar sind doch z.B. die folgenden biologischen Abläufe innerlich eng
 verwandt und gewissermaßen nur dem Grade nach verschieden: Der Aufbau
@@ -402,7 +403,7 @@ eines Organs aus vielen gleichartigen Zellen; die Bildung eines nach
 bestimmten Gesetzen lebenden Ameisenstaates, der fast ebenso wie das
 Organ als etwas Ganzes reagiert; der Zusammenschluß von Menschen zu
 einer Gemeinschaft. +
-[Heisenberg-O]
+xref:Quellen#Heisenberg-O[Heisenberg-O]
 
 Meine Herren, als Physiker, der sein ganzes Leben der nüchternen
 Wissenschaft, der Erforschung der Materie widmete, bin ich sicher von
@@ -427,40 +428,40 @@ Gott! Damit kommt der Physiker, der sich mit der Materie zu befassen
 hat, vom Reiche des Stoffes in das Reich des Geistes. Und damit ist
 unsere Aufgabe zu Ende, und wir müssen unser Forschen weitergeben in die
 Hände der Philosophie. +
-[Planck]
+xref:Quellen#Planck[Planck]
 
 Habt ihr nicht mich, sondern den Sinn vernommen, so ist es weise, im
 gleichen Sinn zu sagen: Eins ist alles. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Diese Weltordnung hier hat nicht der Götter noch der Menschen einer
 geschaffen, sondern sie war immer und ist und wird sein: immer-lebendes
 Feuer, aufflammend nach Maßen, und verlöschend nach Maßen. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Für Feuer ist Gegentausch alles und Feuer für alles wie Geld für Gold
 und Gold für Geld. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Kaltes erwärmt sich, Warmes kühlt sich ab, Feuchtes vertrocknet, Dürres
 wird benetzt. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 In die gleichen Ströme steigen wir und steigen wir nicht; wir sind es
 und sind es nicht. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Alles ist im Fluß. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
-... ewiges Werden, endloser Fluß gehört zur Offenbarung des Wesens des
+{empty}... ewiges Werden, endloser Fluß gehört zur Offenbarung des Wesens des
 Willens. +
-[Schopenhauer-D 2. Buch §29]
+xref:Quellen#Schopenhauer-D[Schopenhauer-D 2. Buch §29]
 
 Und diesen tausend Gottheiten erstand das staublose, unbefleckte Auge
 für die Lehre: „Was immer auch dem Entstehen angehört, alles gehört auch
 der Vernichtung an!“ +
-[Majjhimanikaya Nr.147]
+xref:Quellen#Majjhimanikaya[Majjhimanikaya Nr.147]
 
 {empty}(77) Jesus sprach: „Ich bin das Licht, das über ihnen allen ist.
 Ich bin das +
@@ -468,7 +469,7 @@ All, das All ist aus mir hervorgegangen, und das All ist bis zu mir +
 ausgedehnt. Spaltet ein Holz, ich bin da. Hebt den Stein auf, und ihr
 werdet +
 mich dort finden.“ +
-[Thomas]
+xref:Quellen#Thomas[Thomas]
 
 {empty}9. Aus dem die Hymnen, Opfer, Werk, Gelübde. +
 Vergangnes, Künftiges, Vedalehren stammen. +
@@ -478,7 +479,7 @@ In der der andre ist verstrickt durch Blendwerk. +
 Als den Zaub'rer den höchsten Gott; +
 Doch ist von seinen Teilstoffen +
 Durchdrungen diese ganze Welt. +
-[Svetasvatara-Upanishad, Vierter Adhyaya]
+xref:Quellen#Upanishad[Svetasvatara-Upanishad, Vierter Adhyaya]
 
 {empty}1. Dieses ist die Wahrheit: +
 Wie aus dem wohlentflammten Feuer die Funken, +
@@ -494,14 +495,14 @@ Noch höher, als das höchste Unvergängliche. +
 Verstand und alle Sinne, +
 Aus ihm entstehen Äther, Wind und Feuer, +
 Das Wasser und Alltragende, die Erde. +
-[Mundaka-Upanishad, Zweites Mundakam]
+xref:Quellen#Upanishad[Mundaka-Upanishad, Zweites Mundakam]
 
 {empty}4. Und er sprach: +
 "Was oberhalb des Himmels ist, o Gârgî, und was unterhalb der Erde ist +
 und was zwischen beiden, dem Himmel und der Erde, ist, +
 was sie das Vergangene, Gegenwärtige und Zukünftige nennen, +
 das ist eingewoben und verwoben in dem Raume (Äther)." +
-[Brihadaranyaka-Upanishad, Dritter Adhyaya, Achtes Brahmanam]
+xref:Quellen#Upanishad[Brihadaranyaka-Upanishad, Dritter Adhyaya, Achtes Brahmanam]
 
 Der erste Vorläufer der Newtonschen Abstraktion [gemeint ist die
 Vorstellung eines absoluten Raumes] dürfte der Begriff des Leeren der
@@ -512,13 +513,13 @@ entstehen und nicht vergehen, denn es müßte aus dem Nichtseienden
 entstehen und in das Nichtseiende vergehen; das Nichtseiende aber ist
 nicht. Die Veränderung der Welt, die wir erfahren, ist dann bloße
 Erscheinung (doxa). +
-[Weizsäcker 6.2.d]
+xref:Quellen#Weizsaecker[Weizsäcker 6.2.d]
 
 Die Vielheit der Dinge in Raum und Zeit, welche sämtliche seine [= des
 Willens] Objektität sind, trifft daher ihn nicht, und er bleibt ihrer
 ungeachtet untheilbar. Nicht ist etwan ein kleinerer Teil von ihm im
 Stein, ein größerer im Menschen: ... +
-[Schopenhauer-D 2. Buch §25]
+xref:Quellen#Schopenhauer-D[Schopenhauer-D 2. Buch §25]
 
 Haben wir wirklich einen freien Willen, oder ist dieser eine reine
 Illusion, wie bestimmte Wenige behaupten? Wir wissen es nicht, aber wir
@@ -526,13 +527,13 @@ werden in diesem Artikel beweisen, dass wenn es tatsächlich
 Experimentatoren mit einem Minimum freien Willens gibt,
 Elementarteilchen ihren eigenen Anteil an diesem wertvollen Gut haben
 müssen. +
-[link:Quellen#Conway-Kochen[Conway-Kochen]]
+xref:Quellen#Conway-Kochen[Conway-Kochen]
 
 Die Vielheit ist bloßer Schein; in Wahrheit gibt es nur EIN Bewußtsein.
-Das ist die Lehre der Upanischaden […] Nichts spiegelt sich! Die Welt
+Das ist die Lehre der Upanischaden xref:Quellen.adoc#[…] Nichts spiegelt sich! Die Welt
 ist nur einmal gegeben. Urbild und Spiegelbild sind eins. Die in Raum
 und Zeit ausgedehnte Welt existiert nur in unsrer Vorstellung. +
-[Schrödinger G&M S.79,92]
+xref:Quellen#Schroedinger_GuM[Schrödinger G&M S.79,92]
 
 Auch Erwin Schrödinger versteht die eigentliche Wirklichkeit als Geist.
 Sie ist für ihn das Ganze, das Eine, wie es uns in unserem Bewußtsein
@@ -541,7 +542,7 @@ und denkender Individuen ist nur Schein, sie besteht in Wirklichkeit gar
 nicht.“ Die Vielheit sind verschiedene Reflektionen des Einen, ähnlich
 wie im Gleichnis der Philosophen des Vedanta die vielen Spiegelungen
 eines einzigen Gegenstands im Kristall. +
-[Dürr P&E V.]
+xref:Quellen#Duerr-PuE[Dürr P&E V.]
 
 == Erkenntnistheorie
 
@@ -549,7 +550,7 @@ Eine besondere Folge dieses Bewußtwerdens lebendiger Zusammenhänge muß
 noch hervorgehoben werden: daß nämlich das Bewußtsein - im Gegensatz zu
 allen niederen Zusammenhängen - zu einer scharfen Trennung des
 Individuums von seiner Umwelt führt. +
-[Heisenberg-O]
+xref:Quellen#Heisenberg-O[Heisenberg-O]
 
 Wie eine Spinne in der Mitte ihres Netzes spürt, sobald eine Fliege
 einen der Fäden zerreißt, und darum schnell herzueilt, als wäre sie
@@ -557,23 +558,23 @@ besorgt um den zerrissenen Faden, so wandert die Seele des Menschen,
 falls ein Körperteil verletzt ist, eilends dorthin, gleichsam empört
 über die Verletzung des Körpers, mit dem sie fest und nach bestimmtem
 Sinn verbunden ist. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
 Der Mann heißt kindisch vor Gott wie der Knabe vor dem Mann. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
-„Wenn einer [außer sich] kein andres sieht, kein andres +
+„Wenn einer xref:Quellen.adoc#[außer sich] kein andres sieht, kein andres +
 hört, kein andres erkennt, das ist die Unbeschränktheit; +
 wenn er ein andres sieht, hört, erkennt, das ist das Beschränkte. +
 Die Unbeschränktheit ist das Unsterbliche, das +
 Beschränkte ist sterblich.“ +
-[Chandogya-Upanishad, Siebenter Prapathaka, Vierundzwanzigster Khanda]
+xref:Quellen#Upanishad[Chandogya-Upanishad, Siebenter Prapathaka, Vierundzwanzigster Khanda]
 
 'Als wesenlos die Eindrücke, +
 Gehör, Gefühl im Menschen sind, +
 Und doch vergißt, in sie vergafft, +
 Der Bhutatman die höchste Welt.' +
-[Maitrayana-Upanishad, Vierter Prapathaka]
+xref:Quellen#Upanishad[Maitrayana-Upanishad, Vierter Prapathaka]
 
 "Ich war anderswo mit meinem Verstande (Manas), darum sah ich nicht; +
 ich war anderswo mit meinem Verstande, darum hörte ich nicht"; so sagt
@@ -582,25 +583,25 @@ denn nur mit dem Verstande sieht man und mit dem Verstande hört man. +
 Verlangen, Entscheidung, Zweifel, Glaube, Unglaube, +
 Festigkeit, Unfestigkeit, Scham, Erkenntnis, Furcht, – +
 alles dies ist nur Manas. +
-[Brihadaranyaka-Upanishad, Erster Adhyaya, Fünftes Brahmanam]
+xref:Quellen#Upanishad[Brihadaranyaka-Upanishad, Erster Adhyaya, Fünftes Brahmanam]
 
-{empty}12. Mit diesem [Selbst] ist es wie mit einem Salzklumpen, +
+{empty}12. Mit diesem xref:Quellen.adoc#[Selbst] ist es wie mit einem Salzklumpen, +
 der, ins Wasser geworfen, sich in dem Wasser auflöst, +
 also daß es nicht möglich ist, ihn wieder herauszunehmen, +
 woher man aber immer schöpfen mag, überall ist es salzig; – +
 also, fürwahr, geschieht es auch, +
 daß dieses große, endlose, uferlose, aus lauter Erkenntnis bestehende
 Wesen +
-aus diesen Elementen [Erde, Wasser, Feuer, Luft, Äther] sich erhebt +
-und in sie wieder mit [dem Leibe] untergeht; +
+aus diesen Elementen xref:Quellen.adoc#[Erde, Wasser, Feuer, Luft, Äther] sich erhebt +
+und in sie wieder mit xref:Quellen.adoc#[dem Leibe] untergeht; +
 nach dem Tode ist kein Bewußtsein, so, fürwahr, sage ich." – Also +
 sprach Yâjñavalkya. +
-[Brihadaranyaka-Upanishad, Zweiter Adhyaya, Viertes Brahmanam]
+xref:Quellen#Upanishad[Brihadaranyaka-Upanishad, Zweiter Adhyaya, Viertes Brahmanam]
 
 Was Mönche, ist das All? -: Das Auge und die Formen, das Ohr und die
 Töne, die Nase und die Gerüche, die Zunge und die Geschmäcke, der Körper
 und die Tastobjekte, das Denkorgan und die Denkobjekte. +
-[Saṃyutta-nikāya 35, 23, 3 IV S.15]
+xref:Quellen#Samyutta-Nikaya[Saṃyutta-Nikāya 35, 23, 3 IV S.15]
 
 Wenn ich am hellichten Tag die Augen öffne, so liegt es nicht in meiner
 Macht zu entscheiden, ob ich sehen werde oder nicht, oder auch welche
@@ -609,7 +610,7 @@ ist es beim Hören und anderen Sinneserregungen. Die ihnen gemäßen
 Vorstellungen sind nicht Geschöpfe meines Willens. Daraus kann man
 folgern, dass es einen anderen Willen oder Geist gibt, der sie
 hervorbringt. +
-[Berkeley $29]
+xref:Quellen#Berkeley[Berkeley $29]
 
 Bei hinreichender Beständigkeit unserer Umgebung entwickelt sich eine
 Beständigkeit der Gedanken. Vermöge dieser Beständigkeit streben sie,
@@ -618,7 +619,7 @@ Vervollständigungstrieb entspringt nicht der eben beobachteten einzelnen
 Tatsache, er ist auch nicht mit Absicht erzeugt; wir finden ihn, ohne
 unser Zutun, in uns vor. Er steht uns wie eine fremde Macht gegenüber,
 die uns doch stets begleitet und hilft, ... die Tatsache zu ergänzen. +
-[Mach XIV.16.]
+xref:Quellen#Mach[Mach XIV.16.]
 
 Ein Mensch ist Teil eines Ganzen, von uns Universum genannt - ein Teil,
 begrenzt in Zeit und Raum. Er erfährt sich, seine Gedanken und Gefühle,
@@ -626,7 +627,7 @@ als getrennt vom Rest der Welt - eine Art optische Wahnvorstellung des
 Bewusstseins. Diese Wahnvorstellung ist ein Gefängnis, das unsere
 persönlichen Wünsche und Zuneigungen auf einige wenige Personen, die uns
 am nächsten stehen, begrenzt. +
-[Einstein]
+xref:Quellen#Einstein[Einstein]
 
 Ich weiß ehrlich nicht, was die Leute meinen, wenn sie von Freiheit des
 menschlichen Willens sprechen. Ich habe zum Beispiel das Gefühl, dass
@@ -637,7 +638,7 @@ verbinden? Was liegt hinter dem Willensakt, dass ich meine Pfeife
 anzünden will? Ein anderer Willensakt? Schopenhauer hat einmal
 gesagt:"Der Mensch kann, was er will; er kann aber nicht wollen, was er
 will!" +
-[Einstein]
+xref:Quellen#Einstein[Einstein]
 
 Wenn wir einmal eingesehen haben, dass jede physikalische Theorie im
 wesentlichen lediglich ein Modell für die Welt der Erfahrung ist, müssen
@@ -647,7 +648,7 @@ daran, mit der Erfahrung zu übereinstimmen (sie sind also alle
 „richtig“), und es gibt einfach deshalb, weil uns niemals die Gesamtheit
 aller Erfahrungen zugänglich ist, keine Möglichkeit, die vollständige
 Richtigkeit eines Modells zu bestätigen. +
-[Everett-VW 7]
+xref:Quellen#Everett-VW[Everett-VW 7]
 
 Beim begrifflichen Reden machen wir wohl im allgemeinen eine
 stillschweigende Voraussetzung, die etwa auf die Trennbarkeit der
@@ -656,7 +657,7 @@ eindeutige Begriffe gebildet werden sollten, wenn alles von allem
 abhinge. Andererseits hängt in der Wirklichkeit wohl in der Tat alles
 mit allem zusammen. Begriffliches Denken kann darum wohl im Bereich der
 Erfahrung nie volle Eindeutigkeit erreichen. +
-[Weizsäcker 8.3.b.1]
+xref:Quellen#Weizsaecker[Weizsäcker 8.3.b.1]
 
 Die Naturwissenschaft handelt nicht von der eigentlichen Wirklichkeit,
 der ursprünglichen Welterfahrung oder allgemeiner: was dahinter steht!,
@@ -664,7 +665,7 @@ sondern nur von einer bestimmten Projektion dieser Wirklichkeit, nämlich
 von dem Aspekt, den man, nach Maßgabe detaillierter Anleitungen in
 Experimentalhandbüchern, durch „gute“ Beobachtungen herausfiltern
 kann. +
-[Dürr P&E I.]
+xref:Quellen#Duerr-PuE[Dürr P&E I.]
 
 Mit unserem analytischen Denken und einer begrifflich scharf gefaßten
 Sprache, am exaktesten in der Kunstsprache der Mathematik, zerbrechen
@@ -675,9 +676,9 @@ zurückzugewinnen. Aber mit diesem zurückgewonnenen Ganzen fangen wir das
 bringt, für das es keine Teile gibt. Das einheitliche Ganze, das
 Ganzheitliche kann deshalb nicht mehr „gedacht“ werden, sondern nur in
 unserem Bewußtsein als solches auftauchen. +
-[Dürr P&E III.]
+xref:Quellen#Duerr-PuE[Dürr P&E III.]
 
-Die [Quanten-]Umgebung [des Quanten-Systems] bildet eine starke Quelle
+Die xref:Quellen.adoc#[Quanten-]Umgebung xref:Quellen.adoc#[des Quanten-Systems] bildet eine starke Quelle
 für die indirekte Erlangung von Information über das System. In der Tat
 ist es wichtig zu erkennen, dass Beobachter meistens (wenn nicht immer)
 Information über den Zustand eines Systems durch indirekte Beobachtung
@@ -687,23 +688,24 @@ unabhängig voneinander herausgefunden und bestätigt werden kann, ohne
 diesen Zustand zu stören. *In diesem Sinn existieren klassische Zustände
 objektiv und führen zu unserer Vorstellung von „klassischer
 Realität.“* +
-[Schlosshauer Kap. 2.9]
+xref:Quellen#Schlosshauer[Schlosshauer Kap. 2.9]
 
 == Über die Religion
 
 Etliche schrien so, etliche anders, und die Versammlung war in
 Verwirrung, und die meisten wußten nicht, warum sie zusammengekommen
-waren. [Apostel 19]
+waren. +
+xref:Quellen#Apostel[Apostel 19]
 
 Leichen verdienen mehr als Mist, dass man sie wegwirft. +
-[Heraklit-F]
+xref:Quellen#Heraklit-F[Heraklit-F]
 
-... erscheint es daher eben so verkehrt, die Fortdauer seiner
+{empty}... erscheint es daher eben so verkehrt, die Fortdauer seiner
 Individualität zu verlangen, welche durch andere Individuen ersetzt
 wird, als den Bestand der Materie seines Leibes, die stets durch neue
 ersetzt wird: es erscheint eben so thöricht, Leichen einzubalsamiren,
 als es wäre, seine Auswürfe sorgfältig zu bewahren. +
-[Schopenhauer-D 4. Buch §54]
+xref:Quellen#Schopenhauer-D[Schopenhauer-D 4. Buch §54]
 
 Jabali, ein gelehrter Brahmane und wortgewandter Sophist (nichts wahr
 ihm Glaube und Pflicht), sprach also zum Fürsten Ayodhyas: "Warum
@@ -718,14 +720,14 @@ Vätern? Listige Priester erfanden Gebote und sagen mit eigensüchtigen
 Sinnen: "Gib deine Gabe, tu Buße und bete, laß fahren die irdische Habe!
 Nicht gibt es ein Jenseits, oh Rama, vergeblich ist hoffen und Glauben;
 genieße dein Leben allhier, verachte das ärmliche Blendwerk!" +
-[Ramayana-D]
+xref:Quellen#Ramayana-D[Ramayana-D]
 
 Das religiöse Empfinden des Wissenschaftlers äußert sich als
 hingerissenes Staunen, über die Harmonie der Naturgesetzte, welche eine
 Intelligenz von solcher Überlegenheit offenbaren, dass, verglichen
 damit, das gesamte systematische Denken der Menschen ein äußerst
 unbedeutender Abglanz ist. +
-[Einstein]
+xref:Quellen#Einstein[Einstein]
 
 Der Laie meint gewöhnlich, wenn er ‚Wirklichkeit‘ sagt, spreche er von
 etwas Selbstverständlich-Bekanntem; während es mir gerade die wichtigste
@@ -733,13 +735,13 @@ und überaus schwierige Aufgabe unserer Zeit zu sein scheint, daran zu
 arbeiten, eine neue Idee der Wirklichkeit auszubauen. Dies ist es auch,
 was ich meine, wenn ich immer betone, daß Wissenschaft und Religion
 etwas miteinander zu tun haben ‚müssen‘. +
-[Pauli]
+xref:Quellen#Pauli[Pauli]
 
 „Naturwissenschaft ohne Religion ist lahm, Religion ohne
 Naturwissenschaft ist blind“ sagt Albert Einstein. +
-[Dürr P&E V.]
+xref:Quellen#Duerr-PuE[Dürr P&E V.]
 
 == Über Alles
 
-link:node/21[Mandukya-Karika] +
-[Mandukya-Upanishad]
+xref:Mandukya-Karika#Mandukya-Karika[Mandukya-Karika] +
+xref:Quellen.adoc#[Mandukya-Upanishad]

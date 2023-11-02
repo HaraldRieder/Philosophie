@@ -890,3 +890,5 @@ Unsagbar dem Erweckten selbst.
 Ew'ge, reine Identität, +
 Der Einheit Stätte nach Kräften +
 Erkannt habend, verehren wir!
+
+xref:Quellen.adoc#Upanishad[Mandukya-Upanishad]

@@ -124,7 +124,7 @@ Seiten erkennend, weder bewusst noch unbewusst, auch nicht durch und
 durch aus Erkenntnis bestehend, unsichtbar, unbetastbar, ungreifbar,
 uncharakterisierbar, undenkbar, unbezeichenbar, nur in der Gewissheit
 des eigenen Selbstes gegründet, die ganze Weltausbreitung auslöschend,
-selig, beruhigt, zweitlos, – das ist [das vierte Viertel], das« eben
+selig, beruhigt, zweitlos, – das ist {startsb}das vierte Viertel{endsb}, das« eben
 »ist der Âtman, den« eben »soll man erkennen«, – +
 und auch der Îçvara (der persönliche Gott) wird verschlungen von dem
 Turîya (dem Vierten), – von dem Turîya! +
@@ -152,10 +152,10 @@ mit der Wirklichkeit *alles* Daseienden, etwas Erlebnishaftes, das nach
 Abwerfen rationaler Beschränkungen, aller Ansichten und Lehren erfahren
 wird. Sie wird als „All-Wissenheit“ (sarvajnata) definiert und steht im
 Mahayana sysnonym für „Erleuchtung“ (bodhi)... +
-Indem er durchschaut, daß alles Existierende [Anmerkung: dies sind die
-Objektivationen des Willens bei Schopenhauer] ein Produkt fluktuierender
-Dharmas ist [Anmerkung: eben des Willens], erkennt er die Leerheit
-[Anmerkung: das Undingliche, das Gesetz bei Heisenberg oder Dürr] als
+Indem er durchschaut, daß alles Existierende {startsb}Anmerkung: dies sind die
+Objektivationen des Willens bei Schopenhauer{endsb} ein Produkt fluktuierender
+Dharmas ist {startsb}Anmerkung: eben des Willens{endsb}, erkennt er die Leerheit
+{startsb}Anmerkung: das Undingliche, das Gesetz bei Heisenberg oder Dürr{endsb} als
 die einzige Wirklichkeit in allen Erscheinungen. Zugleich erlebt er sie
 als mit der Soheit der Welt und der Buddhaheit der Buddhas identisch: in
 der Leerheit durchschaut er die Wesen und Buddhas als eins und erlöst.
@@ -190,7 +190,7 @@ Der fürchtet sich vor keinem mehr. +
 Ihn, fürwahr, quälen nicht mehr die Fragen: „Welches Gute habe ich
 unterlassen?“ — „Welches Böse habe ich begangen?“ — Wer, solches
 wissend, sich von diesen hin zum Atman rettet, der rettet sich zugleich
-von beiden [Gutem und Bösem] hin zum Atman, — wer solches weiß. — So
+von beiden {startsb}Gutem und Bösem{endsb} hin zum Atman, — wer solches weiß. — So
 lautet die Upanishad. +
 xref:Quellen#Upanishad[Taittiriya-Upanishad, Anandavalli]
 
@@ -222,7 +222,7 @@ Den Einen, der das Weltall hält umschlossen, +
 Als Gott kennt, wird befreit von allen Banden. +
 14. Wer im Herzen den nestlosen (leiblosen), +
 Sein und Nichtsein bewirkenden. +
-Die [sechzehn] Teile bindenden +
+Die {startsb}sechzehn{endsb} Teile bindenden +
 Sel'gen Gott sucht, verläßt den Leib. +
 xref:Quellen#Upanishad[Svetasvatara-Upanishad, Fünfter Adhyaya]
 
@@ -290,7 +290,7 @@ werden wir dich sehen?“ +
 Jesus sprach: „Wenn ihr euch entkleidet ohne Scham und eure Kleider +
 nehmt und sie unter eure Füße legt wie die kleinen Kinder und auf sie
 tretet, +
-dann werdet ihr den Sohn des Lebendigen [sehen] und ihr werdet euch
+dann werdet ihr den Sohn des Lebendigen {startsb}sehen{endsb} und ihr werdet euch
 nicht +
 fürchten.“ +
 (42) Jesus sprach: „Werdet Vorübergehende!“ +
@@ -384,7 +384,7 @@ gestaltenden Kraft oder der Naturgesetze im menschlichen Bewußtsein
 dar? +
 xref:Quellen#Heisenberg-G[Heisenberg-G, Kap. 17]
 
-Nach dem Abschluss dieser Entwicklung [der physikalischen Wissenschaft]
+Nach dem Abschluss dieser Entwicklung {startsb}der physikalischen Wissenschaft{endsb}
 scheinen die Wörter: „Materie“, „Kraft“, „Struktur von Raum und Zeit“
 nur verschiedene Seiten des gleichen Geschehens zu bezeichnen. Die
 hierdurch erreichte Vereinheitlichung hat dabei zur Folge, dass keiner
@@ -505,8 +505,8 @@ was sie das Vergangene, Gegenwärtige und Zukünftige nennen, +
 das ist eingewoben und verwoben in dem Raume (Äther)." +
 xref:Quellen#Upanishad[Brihadaranyaka-Upanishad, Dritter Adhyaya, Achtes Brahmanam]
 
-Der erste Vorläufer der Newtonschen Abstraktion [gemeint ist die
-Vorstellung eines absoluten Raumes] dürfte der Begriff des Leeren der
+Der erste Vorläufer der Newtonschen Abstraktion {startsb}gemeint ist die
+Vorstellung eines absoluten Raumes{endsb} dürfte der Begriff des Leeren der
 griechischen Atomisten (Leukipp, Demokrit) sein. Dieser hat seinerseits
 eine philosophische Vorgeschichte. Parmenides von Elea hat den Begriff
 des Seienden (éon) als Grundbegriff eingeführt. Das Seiende kann nicht
@@ -516,8 +516,8 @@ nicht. Die Veränderung der Welt, die wir erfahren, ist dann bloße
 Erscheinung (doxa). +
 xref:Quellen#Weizsaecker[Weizsäcker 6.2.d]
 
-Die Vielheit der Dinge in Raum und Zeit, welche sämtliche seine [= des
-Willens] Objektität sind, trifft daher ihn nicht, und er bleibt ihrer
+Die Vielheit der Dinge in Raum und Zeit, welche sämtliche seine {startsb}= des
+Willens{endsb} Objektität sind, trifft daher ihn nicht, und er bleibt ihrer
 ungeachtet untheilbar. Nicht ist etwan ein kleinerer Teil von ihm im
 Stein, ein größerer im Menschen: ... +
 xref:Quellen#Schopenhauer-D[Schopenhauer-D 2. Buch §25]
@@ -744,5 +744,4 @@ xref:Quellen#Duerr-PuE[Dürr P&E V.]
 
 == Über Alles
 
-xref:Mandukya-Karika#Mandukya-Karika[Mandukya-Karika] +
-xref:Quellen.adoc#[Mandukya-Upanishad]
+xref:Mandukya-Karika#Mandukya-Karika[Mandukya-Karika]

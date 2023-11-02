@@ -7,8 +7,9 @@ und beliebig.
 
 == Der Philosoph und der Rest
 
-http://www.azquotes.com/quote/541291[image:http://www.azquotes.com/picture-quotes/quote-few-men-think-yet-all-will-have-opinions-george-berkeley-54-12-91.jpg[Few
-men think&#44; yet all will have opinions. - George Berkeley,width=400]]
+image::Berkeley.jpg[Few men think, yet all will have opinions. - George Berkeley,width=500]
+
+{empty}
 
 Die Vorstellungen und Begriffe des gemeinen Mannes von der Welt werden
 nicht durch die volle, reine Erkenntnis als Selbstzweck, sondern durch

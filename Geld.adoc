@@ -1,0 +1,44 @@
+= Preis als Energie und Geld als Software
+
+Der Preis einer Ware ist der Erwartungswert der Energie, die zu ihrer
+Erlangung aufgebracht werden muss. Der Erwartungswert ist naturgemäß
+eine statistische Größe. Sie wird nicht mit einer gemeinsamen
+Rechenvorschrift berechnet, sondern jeder verwendet dazu seine eigene.
+Der Preis ist also ein subjektiver Erwartungswert für Energie.
+
+Auf einem Markt lassen sich verschiedene Energieformen ineinander
+umwandeln. 200 Eier lassen sich gegen ein Ferkel tauschen. Am nächsten
+Tag lässt sich das Ferkel wieder gegen 200 Eier zurücktauschen. Dieses
+Verhalten des Marktes legt die Einführung einer gemeinsamen Einheit für
+die verschiedenen Energieformen nahe. Wir erkennen hier das selbe
+Prinzip wie bei der Einführung einer gemeinsamen Einheit für die
+verschiedenen physikalischen Energieformen: wenn sich etwas im Kreis
+umwandeln lässt und danach noch der gleiche Zahlenwert dasteht, so _ist_
+da etwas. Was für die Physiker die Energieerhaltung ist, das ist für die
+Wirtschaftler die Werterhaltung. Während in der Physik heute weniger als
+eine Handvoll Energieeinheiten überlebt haben, sind es bei den
+Währungseinheiten zwar viel mehr, doch ist auch hier die Zahl abnehmend.
+
+Der Erwartungswert ist umgebungsabhängig. In einer industriellen
+Umgebung kann der Preis für eine kWh elektrischer Energie viel kleiner
+sein als in einer steinzeitlichen. Die Umgebung ändert sich, der
+Erwartungswert ist selbstverständlich zeitabhängig. Wirtschaftler
+beschäftigen sich gerne mit diesen Schwankungen und haben dazu
+mannigfache Vorstellungen und Begriffe entwickelt: Währungsschwankungen,
+Inflation, Deflation, Kursschwankungen, Teuerungsraten,
+Immobilienblasen, und so weiter. (Dies ist übrigens ein Paradebeispiel dafür, wie
+bei steigender Begriffszahl die Tiefe der Erkenntnis in einer
+Wissenschaft auf der Stelle treten kann.)
+
+Was ist nun Geld? Geld ist der durch bestimmte Dinge - geprägte
+Metallklumpen, bedruckte Papierfetzen, auf bestimmte Weise zu
+adressierende Speicherstellen von Computer-Speichern - transportierte
+Zahlenwert des Energiewertes, gemessen in der Währungseinheit, in
+Verbindung mit den Übereinkünften
+
+* dass eben nur diese ganz bestimmten Dinge den Zahlenwert
+transportieren dürfen (andere sind „Falschgeld“).
+* dass dieses Geld gegen Energieformen, die den gleichen Preis gemessen
+in der gleichen Einheit haben, getauscht werden darf.
+
+Geld ist somit wesentlich software-artig.

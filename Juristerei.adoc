@@ -1,0 +1,130 @@
+= Juristerei
+
+Der Radikale Konstruktivismus (RK) nimmt für sich in Anspruch, das
+Wahrheitsproblem gelöst zu haben, indem er aus dieser Zirkularität
+heraustritt. Da alle Wahrnehmung subjektiv ist, ist auch die Sicht der
+Welt oder die Sicht von Dingen ausschließlich subjektiv. Es gibt daher
+nur miteinander konkurrierende subjektive Wahrheiten. Ein Vergleich mit
+der Sache selbst ist aus systematischen Gründen nicht möglich. Ernst von
+Glasersfeld bezieht sich dabei unter anderem auf die
+Sapir-Whorf-Hypothese, die besagt, dass man mit der Muttersprache die in
+dieser enthaltenen und ausgedrückten Wahrheiten erlernt. Verschiedene
+Muttersprachen stehen somit auch für verschiedene Wahrheiten. Der RK
+gibt daher konsequent den Begriff der einen Wahrheit und damit der
+Wahrheit selbst aus systematischen Gründen auf. +
+https://de.wikipedia.org/wiki/Wahrheit[Wikipedia 2013]
+
+Dieser den Wissenschaften eigentümliche Weg der Erkenntnis, vom
+Allgemeinen zum Besonderen, bringt es mit sich, daß in ihnen vieles
+durch Ableitung aus vorhergegangenen Sätzen, also durch Beweise
+begründet wird, und dies hat den alten Irrtum veranlaßt, daß nur das
+Bewiesene vollkommen wahr sei und jede Wahrheit eines Beweises bedürfe;
+da vielmehr im Gegenteil jeder Beweis einer unbewiesenen Wahrheit
+bedarf, die zuletzt ihn oder auch wieder seine Beweise stützt: daher
+eine unmittelbar begründete Wahrheit der durch einen Beweis begründeten
+so vorzuziehen ist wie Wasser aus der Quelle dem aus dem Aquädukt ... +
+Es kann keine Wahrheit geben, die unbedingt allein durch Schlüsse
+herauszubringen wäre; sondern die Notwendigkeit, sie bloß durch Schlüsse
+zu begründen, ist immer nur relativ, ja subjektiv ... +
+Beweise sind überhaupt weniger für die, welche lernen, als für die,
+welche disputieren wollen. +
+xref:Quellen#Schopenhauer-D[Schopenhauer-D 1. Buch §14]
+
+Wahrheiten gibt es demnach so viele wie erkennende Subjekte. Die
+Wirklichkeit ist nicht direkt erfahrbar, sondern nur als Vorstellung.
+Dass man Vorstellungen besitze, die mit der Wirklichkeit übereinstimmen
+und damit absolut wahr sein könnten, ist ein irrsinniger Glaube. Eher
+könnte es gelingen, eine *Vorstellungswahrheit* zu definieren als Maß für
+die Entfernung einer bestimmten Vorstellung von der Wirklichkeit. Nur
+wer definiert, was *die* Wirklichkeit ist, wenn niemand sie sicher
+kennt?
+
+"Sie schwören, dass Sie nach bestem Wissen die reine Wahrheit gesagt und
+nichts verschwiegen haben." - "Ich schwöre es."
+
+Was tut somit einer kund, der mit so einer Eidesformel schwört?
+Übersetzt ungefähr dies:
+
+"Ich schwöre, dass ich ein Seher bin, der die Wirklichkeit direkt und
+ohne die üblichen Umwege, welche über Leib und Sinne führen, erkennen
+kann. Ferner bin ich dazu in der Lage, was ich erkenne in Wortsprache
+anderen Nichtsehern mitzuteilen, und zwar so, dass sie nach Erfahrung
+über den Gehörsinn und Deutung des Gehörten ebenfalls direkt die
+Wirklichkeit erkennen können - so wie ich." +
+
+Es könnte auch dies bedeuten:
+
+"Ich schwöre, dass ich dazu in der Lage bin, aus den wenigen
+Sinneseindrücken, die mir zur Verfügung stehen, stets die gesamte
+Wirklichkeit zu rekonstruieren, woran bisher alle auch noch so genialen
+Wissenschaftler gescheitert sind. Denn ich bin im Besitz eines Perpetuum
+Mobile, das aus wenig Information in eindeutiger Weise viel Information
+erschaffen kann." +
+
+Was kann man denn einem glauben, der so etwas behauptet? Richtig: nichts!
+
+Wahrheitsfindung vor Gericht bedeutet, dass ein Richter (oder
+Richtergremium) sich eine Meinung bildet, was in der Wirklichkeit
+geschehen sei - und dies nicht aufgrund eigener Sinneserfahrung, sondern
+aufgrund der Erfahrung anderer, die meist systematisch versuchen, die
+Meinung des Richters in die Richtung des eigenen Willens zu lenken, und
+das losgelöst von deren eigenen Vorstellungen über die Wirklichkeit,
+sozusagen gelogen. Man könnte meinen, so ein Unterfangen könne immer nur
+scheitern. Oft genug gelingt es teilweise, was wesentlich von der Kunst der
+Richter abhängt.
+
+Was hier herausgestrichen werden soll ist, dass vor Gericht niemals mit
+Sicherheit Gerechtigkeit hergestellt werden kann, und zwar *prinzipiell
+nicht*. Bei vielen verhandelten Fällen wird es immer welche geben, in
+denen die Vorstellungen des oder der Richtenden sehr weit von der
+Wirklichkeit entfernt sind - die Ursache von Fehlurteilen. Doch wer kann
+entscheiden, welches Urteil ein Fehlurteil ist und welches nicht?
+
+Die Zuhilfenahme von technischen Mitteln bringt keine prinzipielle
+Besserung. Die richtige Anwendung erhöht sicher die _Vorstellungswahrheit_
+in obigem Sinne - aber nur im statistischen Mittel.
+
+Ein Beispiel:
+
+Ein Geschwindigkeitsmessgerät dokumentiert automatisch Temposünder
+anhand von Nummernschildern und scharfen Fotos aller Insassen mit
+allem, was die Technik hergibt. Wenn ein Richter die Aufzeichnungen
+sieht, so wird er stets glauben, dass wenn ein Nummernschild scharf zu
+erkennen ist und eine Geschwindigkeit dazu gemessen worden ist und ein
+Sachverständiger versichert, dass das Gerät in einwandfreiem Zustand
+gewesen ist, dass sich zu jenem Eigenzeitpunkt Materie über der
+zulässigen Höchstgeschwindigkeit bewegt hat. 
+
+Selbst wenn das Gerät einwandfrei arbeitet, so wie es erdacht worden
+ist: eine Störung aus den Tiefen des Alls kann es immer
+durcheinanderbringen, ein Ereignis vortäuschen, das nie dagewesen ist.
+Sollte einer das Pech haben, aufgrund eines Neutrinoeinfangs geblitzt
+worden zu sein, so wird er erfahren: *auch in einem Rechtsstaat kann die
+Beweislast beim Angeklagten landen*. Niemand wird ihm jemals glauben,
+wenn er nicht selbst Gegenbeweise beschaffen kann.
+
+Durch Vertrauen auf bessere _Vorstellungswahrheit_ durch die Anwendung
+technischer Mittel kann deren Nutzen wiederum konterkariert werden - so
+geschehen im Wattestäbchen-Skandal.
+
+Der Mensch kalkuliert Wahrscheinlichkeiten immer nur für Dinge, die er
+sich vorstellen kann oder will. Für das Kernkraftwerk in Fukujima gab es
+sicher Risikoberechungen aber wahrscheinlich keine, die einen Tsunami
+berücksichtigten. Die nicht in die Kalkulation eingegangenen
+Wahrscheinlichkeiten sind in der Wirklichkeit nichtsdestotrotz
+vorhanden!
+
+Kommen wir nun zum eigentlichen Zweck des Rechts und der Justizapparate.
+Keineswegs haben sie das Ziel, in jedem Einzelfall gerecht zu
+entscheiden. Fehlurteile wird es immer geben, sie sind prinzipbedingt.
+Der eigentliche Zweck ist die Bewahrung der größeren Form, des Stammes,
+des Staates. Dessen Überleben soll gesichert werden. Dazu ist es
+notwendig, die widerstrebenden Naturkräfte auf der Ebene des Willens
+juristischer Personen in geordnete Bahnen zu lenken, so dass sie die
+größere Form nicht bedrohen. So wie sich die (intern und extern)
+waltenden Kräfte wandeln, so wie sich größere Formen wandeln, mit denen
+man in Konkurrenz steht, so muss sich auch das Recht und die Justiz
+wandeln und anpassen. Der Wandel des Rechts ist somit ganz natürlich.
+Immergleiches Recht, als was manch einer die 10 Gebote oder die Scharia
+auffasst, führt früher oder später zum Untergang der größeren Form, die
+dieses Recht anwendet.

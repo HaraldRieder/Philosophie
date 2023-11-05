@@ -30,12 +30,12 @@ sind sie die Krone der Schöpfung: erhaben über den dummen Rest der Natur.
 Darüber hinaus sind Menschen in der Lage dazu, sich ständig weiterzuentwickeln. Also zum Beispiel von hier
 [cols=",",]
 |===
-|image::Bettler.jpg[Bettler]
-|image::Burg.jpg[sites/default/files/pictures/Burg,width=400]
+|image:Bettler.jpg[Bettler]
+|image:Burg.jpg[sites/default/files/pictures/Burg,width=400]
 |===
 nach hier
 [cols=",",]
 |===
-|image::Penner.jpg[Penner,width=300]
-|image::Anwesen.jpg[Anwesen,width=400]
+|image:Penner.jpg[Penner,width=300]
+|image:Anwesen.jpg[Anwesen,width=400]
 |===

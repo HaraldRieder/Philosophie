@@ -1,0 +1,78 @@
+= Das Gleichnis von den Sauriern
+
+Die Mammaliagenese ist die Theorie zur dynamischen Entstehung (griech.
+Genese) der Asymmetrie großer Landtiere, d. h. des Ungleichgewichts von
+großen Säugetieren und Sauriern auf der Erde.
+
+*Fragestellung*
+
+Die großen Landtierarten unserer Erde werden überwiegend von Säugetieren
+gestellt und nur zu einem geringen Bruchteil von Laufvögeln (als
+Nachfolger der Saurier).
+
+* Einerseits gibt es die Möglichkeit anzunehmen, dass diese Asymmetrie
+eine (zufällige) Anfangsbedingung unseres Planeten darstellt.
+* Andererseits wäre es aber naheliegender davon auszugehen, dass
+Säugetiere und Saurier zu Beginn in gleichen Mengen vorlagen und die
+Asymmetrie erst dynamisch während der Entwicklung der Biosphäre bis zum
+heutigen Zeitpunkt entstand. Theoretische Modelle, die dies
+bewerkstelligen, werden unter dem Begriff Mammaliagenese
+zusammengefasst.
+
+*Sacharows Bedingungen für die Asymmetrie großer Landtiere*
+
+Andrei Sacharow erkannte 1967 als erster die Bedingungen, die für das
+Auftreten der Asymmetrie notwendig sind. Unabhängig von ihm fand auch
+der russische Forscher Wadim Kuzmin 1970 diese Bedingungen.
+
+Sacharows Arbeiten waren lange Zeit im Westen nicht bekannt. Noch vor
+ihrem Bekanntwerden veröffentlichte Leonard Susskind eigene Theorien der
+Mammaliagenese.
+
+Die verschiedenen Theorien unterscheiden sich hinsichtlich der Art und
+Weise, wie diese Bedingungen im Einzelnen theoretisch erfüllt werden.
+
+*Nichterhaltung der Großtierdifferenz* 
+
+Die Großtierdifferenz B (Zahl großer Säugetiere minus Zahl großer
+Saurier, B steht dabei für „big“) darf nicht konstant sein, sondern muss
+sich im Laufe der Erdentwicklung ändern.
+
+Erfüllung: in der GUT (Große vereinheitlichte Theorie) gibt es zwei
+Arten, wie das Genom eines Wassertiers zu dem eines großen Landtiers
+mutieren könnte. Beide Mutationsarten treten jedoch mit
+unterschiedlichen Wahrscheinlichkeiten auf, wodurch sich die
+Großtierdifferenz B ändert.
+
+Diese Verletzung der Großtierdifferenz kann durch die sogenannte
+Sphaleron-Wechselwirkung zwischen großen und kleinen Landtieren erklärt
+werden.
+
+*Symmetriebrechung* 
+
+Eine Symmetrie zwischen Säugetieren und Sauriern muss gebrochen werden.
+
+Erfüllung: zurzeit sind nur sehr schwache CP-Verletzungen bekannt, die
+das Vorhandensein der Asymmetrie großer Landtiere noch nicht erklären
+können. Die CP-Symmetrie beschreibt einen Verlauf, bei dem ein
+Säugetiergenom in ein Sauriergenom (oder umgekehrt) mutiert. Lässt sich
+dieser Verlauf nicht eindeutig umkehren, so spricht man von einer
+Symmetriebrechung.
+
+*Thermisches Ungleichgewicht* 
+
+Es muss zu einem Verlust des thermischen Gleichgewichts kommen.
+
+Erfüllung: die Erde kühlt sich durch Strahlungsverluste ab. Dadurch
+können nicht mehr alle Reaktionen mit gleicher Wahrscheinlichkeit
+ablaufen, und Landtiergenome haben nicht mehr die nötige Energie, um in
+Wassertiergenome zurückzumutieren.
+
+*Leptogenese*
+
+Neuere Theorien zur Entstehung der Asymmetrie großer Landtiere
+favorisieren die Leptogenese. Hier wird die Asymmetrie zunächst zwischen
+Kleinsäugern und Kleinsauriern erzeugt und dann durch so genannte
+Sphaleron-Prozesse in die Asymmetrie großer Landtiere konvertiert.
+
+*Ja, richtig erkannt! Dieses Gleichnis adressiert Theorien zur https://de.wikipedia.org/wiki/Baryogenese[Baryogenese].*

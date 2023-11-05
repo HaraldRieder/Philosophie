@@ -1,6 +1,8 @@
-== Mandukya-Karika
+= Mandukya-Karika
+:toc:
+:toc-title: Auszüge
 
-*Zweiter Teil, genannt Vaitathyam, "die Unwahrheit"*
+== Zweiter Teil, genannt Vaitathyam, "die Unwahrheit"
 
 {empty}1. Alles, was wir im Traum sehen, +
 Ist unwahr, sagen Weise uns, +
@@ -192,7 +194,7 @@ Das Wesen in der Außenwelt, +
 Zu ihm werdend, in ihm ruhend, +
 Halt er treu an dem Wesen fest.
 
-*Dritter Teil, genannt Advaitam, "die Zweiheitlosigkeit"*
+== Dritter Teil, genannt Advaitam, "die Zweiheitlosigkeit"
 
 {empty}1. Verehrung das Gebot fordert +
 Des Brahman als Gewordenen, +
@@ -389,7 +391,7 @@ Kein Entsteh'n ist der ganzen Welt, +
 Das ist die höchste Heilswahrheit, +
 Daß es nirgend ein Werden gibt!
 
-*Vierter Teil, genannt Alâtashânti, "die Beilegung des Feuerbrandes"*
+== Vierter Teil, genannt Alâtashânti, "die Beilegung des Feuerbrandes"
 
 {empty}1. Der wie Wolken im Weltraume +
 Die Vielheiten im Einen weiß, +

@@ -1,8 +1,8 @@
-== Zitate
+= Zitate
 
-Die Sammlung meiner Lieblingszitate - Stand 2019.
+Die Sammlung meiner Lieblingszitate.
 
-Wie alle Einteilungen ist auch die hier vorliegende völlig willkürlich
+Wie alle Unterteilungen ist auch die nun folgende völlig willkürlich
 und beliebig.
 
 == Der Philosoph und der Rest
@@ -405,6 +405,9 @@ bestimmten Gesetzen lebenden Ameisenstaates, der fast ebenso wie das
 Organ als etwas Ganzes reagiert; der Zusammenschluß von Menschen zu
 einer Gemeinschaft. +
 xref:Quellen#Heisenberg-O[Heisenberg-O]
+
+{empty}...Zweiteilung und Symmetrieverminderung, das ist des Pudels Kern. Zweiteilung ist ein sehr altes Attribut des Teufels (das Wort „Zweifel“ soll ursprünglich Zweiteilung bedeutet haben). Ein Bischof in einem Stück von Bernard Shaw sagt: "A fair play for the devil please". Darum soll er auch zum Weihnachtsfest nicht fehlen. Die beiden göttlichen Herren - Christus und Teufel - sollen nur merken, daß sie inzwischen viel symmetrischer geworden sind.
+xref:Quellen#Heisenberg-G[Heisenberg-G Kap. 17, Zitat aus einem Brief Wolfgang Paulis an Werner Heisenberg]
 
 Meine Herren, als Physiker, der sein ganzes Leben der nüchternen
 Wissenschaft, der Erforschung der Materie widmete, bin ich sicher von

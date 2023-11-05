@@ -1,9 +1,6 @@
-= Zitate
-
-Die Sammlung meiner Lieblingszitate.
-
-Wie alle Unterteilungen ist auch die nun folgende völlig willkürlich
-und beliebig.
+= Die Sammlung meiner Lieblingszitate
+:toc:
+:toc-title: Wie alle Unterteilungen ist auch die nun folgende völlig willkürlich und beliebig.
 
 == Der Philosoph und der Rest
 

@@ -431,6 +431,12 @@ unsere Aufgabe zu Ende, und wir müssen unser Forschen weitergeben in die
 Hände der Philosophie. +
 xref:Quellen#Planck[Planck]
 
+_Kausalität_ ist eine Eigenschaft eines Modells und nicht eine Eigenschaft der Erfahrungswelt. +
+xref:Quellen#Everett-VW[Everett-VW 12]
+
+_Kausalität_ wird oft auch als das Prinzip von Ursache und Wirkung bezeichnet. In diesem Sinne wird es von vielen Physikern weniger als Naturgesetz sondern als Interpretation des Geschehens angesehen, da es keine exakte Vorschrift gibt, wie sich eine bestimmte Ursache und die zugehörige Wirkung räumlich und zeitlich abgrenzen lassen. Letztlich werden in der Physik Vorgänge der Natur erschöpfend durch Lösungen von mathematischen Gleichungen beschrieben. Eine Notwendigkeit, Teilbereiche dieser Lösungen als Ursachen und als Wirkungen zu bezeichnen, besteht letztlich nicht, sondern dient lediglich zur Veranschaulichung und zum besseren Verständnis. +
+https://de.wikipedia.org/wiki/Kausalit%C3%A4t[Wikipedia 2014]
+
 Habt ihr nicht mich, sondern den Sinn vernommen, so ist es weise, im
 gleichen Sinn zu sagen: Eins ist alles. +
 xref:Quellen#Heraklit-F[Heraklit-F]

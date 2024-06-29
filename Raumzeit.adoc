@@ -8,13 +8,31 @@ _Erst wenn uns dieses alles durch die folgende Betrachtung der Erscheinungen und
 werden wir den Sinn der kanitschen Lehre völlig verstehn, daß Zeit, Raum und Kausalität nicht dem Ding an sich zukommen, sondern nur Formen des Erkennens sind._ +
 xref:Quellen#Schopenhauer-D[Schopenhauer-D  2. Buch §23]
 
+_Es besteht keinerlei a priori einsichtige begriffliche Notwendigkeit für die Annahme, daß alle Objekte der Physik „in“ einem gemeinsamen Raum sein müssen._ +
+xref:Quellen#Weizsaecker[Weizsäcker 9.1.a]
+
 So kann es durchaus geschehen, dass wir unsere Vorstellungen ändern müssen, wenn die Technik uns neue Operationen schenkt, 
 wenn wir erstmalig Operationen durchführen können, die uns seither nicht zur Verfügung standen - oder wenn die Techik uns neue Sinne, 
 neue Detektoren, gibt, so dass wir reichhaltigere Erscheinungen mit reichhaltigeren Änderungen erfahren können.
 
 Eine solche neue Operation ist die Bewegung mit annähernd Lichtgeschwindigkeit. Hätten wir diese in unserem Alltag zur Verfügung, 
 so wäre unserem Denken die Minkowski-Geometrie der Raumzeit mit all ihren Konsequenzen nicht mehr bizarr, sondern vollkommen vertraut. 
+
+Das Äquivalenzprinzip führt uns in der Theorie zur riemannschen Geometrie und damit zur _allgemeinen_ Relativitätstheorie. 
+
+_Der harte Kern der allgemeinen Relativitätstheorie ist das zunächst empirische Faktum der Proportionalität der schweren und trägen Masse. Einstein postuliert dies als fundamentales Gesetz und zeigt, daß dann ein homogenes Gravitationsfeld einem gleichmäßig beschleunigten Bezugssystem äquivalent ist: das Äquivalenzprinzip. Dies gibt ihm die Hoffnung, das Relativitätsprinzip auf beschleunigte Bewegungen auszudehnen. Beliebige Gravitationsfelder und beliebige Beschleunigungen können aber nur jeweils lokal zur Deckung gebracht werden. Als mathematisches Mittel bietet sich die Riemannsche Geometrie des vierdimensionalen Raum-Zeit-Kontinuums an. In dieser Geometrie gibt es keine besondere Kraft „Gravitation“ mehr. Die Proportionalität der schweren und trägen Masse, also das Äquivalenzprinzip, ist [dadurch] so unvermeidlich geworden wie das Trägheitsgesetz als Folge der Relativität der Intertialsysteme._ +
+xref:Quellen#Weizsaecker[Weizsäcker 6.10.a]
+
 Wäre die Erdoberfläche mit schwarzen Löchern bewachsen anstatt mit Bäumen, dann wäre uns eine riemannsche Geometrie der Raumzeit vollkommen vertraut.
 
 Wir dürfen aber nicht die physikalische Zeit mit der psychischen Zeit verwechseln. Die psychische Zeit gehört zum Subjekt, zum Geist. Sie kann nicht durch die genannten Operationen beeinflusst werden. 
-Die Operationen beeinflussen die Perspektive des Subjekts und damit unter anderem, was seiner Vorstellung als Raum und was als Zeit dienen kann.
+Die Operationen beeinflussen die Perspektive des Subjekts und damit unter anderem, was seiner Vorstellung als Raum und was als physikalische Zeit dienen kann.
+Dass wir die Verschiedenheit von physikalischer und psychischer Zeit immer noch nicht verinnerlicht haben, steht uns bei der Entwicklung physikalischer Theorien im Weg. Daran hat sich seit dem Urteil von Weizsäckers aus dem 20. Jahrhundert bis heute kaum etwas geändert.
+
+_Die Beziehung zwischen Quantentheorie und Relativitätstheorie gilt zu Recht bis heute nicht als voll geklärt. Zwar ist die relativistische Quantenfeldtheorie mit lokaler Wechselwirkung empirisch sehr erfolgreich. Aber solange die in ihr auftretenden Singularitäten nur in relativistisch invarianter Weise weggelassen werden, ist nicht klar, ob die Theorie im mathematisch strengen Sinne überhaupt existiert. Auch wenn man hofft, daß sich diese Schwierigkeiten klären werden, so bleibt doch die relativistische Quantentheorie gleichsam „zusammengeleimt“ aus zwei einander wesensfremden Theorien._ +
+xref:Quellen#[Weizsäcker 9.1.a]
+
+So lange Quantenfeldtheorien und String-Theorien eine Raumzeitbühne a priori annehmen, werden sie nicht tiefer zur Wahrheit vordringen.
+
+
+

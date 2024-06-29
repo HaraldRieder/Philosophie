@@ -1,0 +1,20 @@
+# Raumzeit
+
+Wie ensteht unsere Vorstellung von physikalischem Raum und physikalischer Zeit? 
+Über die Erfahrung, wie nichtsymmetrische Erscheinungen sich ändern, wenn Raumdrehungen und Translationen (also die Symmetrieoperationen) durchgeführt werden oder stattfinden, entsteht unsere Vorstellung über Raum und Zeit. 
+Raum und Zeit sind keine bereitgestellte Bühne, auf der die Geschehnisse ablaufen, sondern eine von unserem Denken erzeugte Vorstellung. Dies wusste bereits Schopenhauer.
+
+_Erst wenn uns dieses alles durch die folgende Betrachtung der Erscheinungen und verschiedenen Manifestationen des Willens völlig deutlich geworden sein wird, 
+werden wir den Sinn der kanitschen Lehre völlig verstehn, daß Zeit, Raum und Kausalität nicht dem Ding an sich zukommen, sondern nur Formen des Erkennens sind._ +
+xref:Quellen#Schopenhauer-D[Schopenhauer-D  2. Buch §23]
+
+So kann es durchaus geschehen, dass wir unsere Vorstellungen ändern müssen, wenn die Technik uns neue Operationen schenkt, 
+wenn wir erstmalig Operationen durchführen können, die uns seither nicht zur Verfügung standen - oder wenn die Techik uns neue Sinne, 
+neue Detektoren, gibt, so dass wir reichhaltigere Erscheinungen mit reichhaltigeren Änderungen erfahren können.
+
+Eine solche neue Operation ist die Bewegung mit annähernd Lichtgeschwindigkeit. Hätten wir diese in unserem Alltag zur Verfügung, 
+so wäre unserem Denken die Minkowski-Geometrie der Raumzeit mit all ihren Konsequenzen nicht mehr bizarr, sondern vollkommen vertraut. 
+Wäre die Erdoberfläche mit schwarzen Löchern bewachsen anstatt mit Bäumen, dann wäre uns eine riemannsche Geometrie der Raumzeit vollkommen vertraut.
+
+Wir dürfen aber nicht die physikalische Zeit mit der psychischen Zeit verwechseln. Die psychische Zeit gehört zum Subjekt, zum Geist. Sie kann nicht durch die genannten Operationen beeinflusst werden. 
+Die Operationen beeinflussen die Perspektive des Subjekts und damit unter anderem, was seiner Vorstellung als Raum und was als Zeit dienen kann.
